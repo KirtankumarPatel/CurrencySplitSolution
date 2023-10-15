@@ -1,0 +1,5 @@
+C:\Users\Ppate\CurrencySplitSolution\CurrencyLibrary\obj\Debug\net7.0\CurrencyLibrary.csproj.AssemblyReference.cache
+C:\Users\Ppate\CurrencySplitSolution\CurrencyLibrary\obj\Debug\net7.0\CurrencyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ppate\CurrencySplitSolution\CurrencyLibrary\obj\Debug\net7.0\CurrencyLibrary.AssemblyInfoInputs.cache
+C:\Users\Ppate\CurrencySplitSolution\CurrencyLibrary\obj\Debug\net7.0\CurrencyLibrary.AssemblyInfo.cs
+C:\Users\Ppate\CurrencySplitSolution\CurrencyLibrary\obj\Debug\net7.0\CurrencyLibrary.csproj.CoreCompileInputs.cache
